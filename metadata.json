@@ -1,0 +1,6 @@
+{
+  "name": "Bayta Kão Lanches",
+  "description": "A lendária lancheria de bairro da Zona Sul de Porto Alegre. Baurus, xis prensado, cachorro-quente e porções há 11 anos na esquina da Capivari com Icaraí.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
